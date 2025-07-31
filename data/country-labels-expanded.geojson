@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      },
+      "properties": {
+        "admin": "Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3468,
+          56.1304
+        ]
+      },
+      "properties": {
+        "admin": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7669,
+          35.9078
+        ]
+      },
+      "properties": {
+        "admin": "South Korea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9925,
+          15.87
+        ]
+      },
+      "properties": {
+        "admin": "Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9758,
+          4.2105
+        ]
+      },
+      "properties": {
+        "admin": "Malaysia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "admin": "Brazil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9375,
+          -30.5595
+        ]
+      },
+      "properties": {
+        "admin": "South Africa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.991,
+          12.5657
+        ]
+      },
+      "properties": {
+        "admin": "Cambodia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3563,
+          23.685
+        ]
+      },
+      "properties": {
+        "admin": "Bangladesh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6793,
+          33.2232
+        ]
+      },
+      "properties": {
+        "admin": "Iraq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7718,
+          7.8731
+        ]
+      },
+      "properties": {
+        "admin": "Sri Lanka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6596,
+          28.0339
+        ]
+      },
+      "properties": {
+        "admin": "Algeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9237,
+          48.0196
+        ]
+      },
+      "properties": {
+        "admin": "Kazakhstan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2283,
+          26.3351
+        ]
+      },
+      "properties": {
+        "admin": "Libya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5375,
+          33.8869
+        ]
+      },
+      "properties": {
+        "admin": "Tunisia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0059,
+          44.0165
+        ]
+      },
+      "properties": {
+        "admin": "Republic of Serbia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4955,
+          19.8563
+        ]
+      },
+      "properties": {
+        "admin": "Laos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956,
+          21.9162
+        ]
+      },
+      "properties": {
+        "admin": "Myanmar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.7277,
+          4.5353
+        ]
+      },
+      "properties": {
+        "admin": "Brunei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6791,
+          43.9159
+        ]
+      },
+      "properties": {
+        "admin": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3699,
+          47.4116
+        ]
+      },
+      "properties": {
+        "admin": "Moldova"
+      }
+    }
+  ]
+}
