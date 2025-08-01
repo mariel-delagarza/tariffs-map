@@ -22,10 +22,14 @@ The map was created using [MapLibre](https://maplibre.org/) and geojson download
 
 ## The charts
 
-The charts were created using [Highcharts](https://www.highcharts.com/products/highcharts/). 
+The charts were created using [Highcharts](https://www.highcharts.com/products/highcharts/). The charts were created because the original NYT piece doesn't give the values of the tariffs until you get to the table at the bottom. So when their map said "rates as high as 50 percent" it wasn't clear if it was only one country or several countries.
+
+Creating the chart let me see at the same time as the map what exactly the tariff rates were. 
+
 
 <img src="chart.png">
 
+### Interacting with the Map
 This project was partially an exercise in wiring interactivity between the charts and the map. 
 
 When hoving over a column, the country the column goes to is highlighted on the map. Likewise, if you hover over a country, the associated column is highlighted and the tooltip displays.
