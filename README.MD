@@ -1,8 +1,9 @@
 ## Intro
+For the live version of this repo, [click here](https://mariel-delagarza.github.io/tariffs-map/).
 
-This map was taken from the NYT's ["See Trump's New Tariffs on Every Country"](https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html?campaign_id=29&instance_id=159383&nl=the-upshot&regi_id=160286027&segment_id=202764&user_id=668a8d3a57aaa84bc48a03d3e56fd09e).
+The map for this project was taken from the NYT's ["See Trump's New Tariffs on Every Country"](https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html?campaign_id=29&instance_id=159383&nl=the-upshot&regi_id=160286027&segment_id=202764&user_id=668a8d3a57aaa84bc48a03d3e56fd09e).
 
-It includes a static map, but doesn't allow interaction or seeing exactly what the tariff values are. 
+The NYT piece includes a static map, but doesn't allow interaction or seeing exactly what the tariff values are. 
 <img src="map.png">
 
 You can click a button to "Size by 2024 Imports", but hovering over the countries or clicking around doesn't give any information about what the import values were. 
