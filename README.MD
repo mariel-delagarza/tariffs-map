@@ -22,6 +22,12 @@ The map was created using [MapLibre](https://maplibre.org/) and geojson download
 
 ## The charts
 
-The charts were created using [Highcharts](https://www.highcharts.com/products/highcharts/). This project was partially an exercise in wiring interactivity between the charts and the map. 
+The charts were created using [Highcharts](https://www.highcharts.com/products/highcharts/). 
 
 <img src="chart.png">
+
+This project was partially an exercise in wiring interactivity between the charts and the map. 
+
+When hoving over a column, the country the column goes to is highlighted on the map. Likewise, if you hover over a country, the associated column is highlighted and the tooltip displays.
+
+<img src="chart2.png">
