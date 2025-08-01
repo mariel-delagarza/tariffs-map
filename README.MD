@@ -29,6 +29,34 @@ Creating the chart let me see at the same time as the map what exactly the tarif
 
 <img src="readme-images/chart.png">
 
+### The three chart buttons
+Rather than build 3 different charts and swap them out with CSS, I kept the 1 chart and use the buttons to swap out how the data is displayed.
+
+The buttons change the data sort, the y-axis label and values, and the x-axis label.
+
+Below, the x-axis label has been updated to show the countries are sorted by the import value.
+<img src="readme-images/chart3.png">
+
+Below, the y-axis and its label have been updated for the new data displayed (% of imports) and the x-axis label has been updated to reflect the new sort.
+<img src="readme-images/chart4.png">
+
+### Why the second 2 charts
+The "Sort by Tariff Rate" chart was so I could see the tariff values at the same time as the map.
+
+"Sort by 2024 Import Value" was created because the NYT map allows you to display the countries sized by their import values, but doesn't provide the values. It only gives comparative information: we imported more from Canada than Thailand.
+
+#### Sort by 2024 Import Value
+The second chart is an in-between of viewing the tariff rates and the import values. This chart lets me compare the countries by import value (countries on the left imported more than countries on the right) but see their tariff rates at the same time. By examining the chart, I could see that we imported $500B from Mexico and gave it a tariff rate of 30%, but only $44B from Brazil, and gave it a rate of 50%. I personally found this interesting - why are we punishing goods from countries we don't import much from? Wouldn't we want to encourage trade from these countries? (I have a background in many things but trade and economics are not it.) 
+
+<img src="readme-images/chart5.png">
+<img src="readme-images/chart6.png">
+
+### View as % of US Imports
+This chart replaces the second map view from the NYT. It clearly compares the countries by how much we imported.
+
+<img src="readme-images/chart7.png">
+
+
 ### Interacting with the Map
 This project was partially an exercise in wiring interactivity between the charts and the map. 
 
