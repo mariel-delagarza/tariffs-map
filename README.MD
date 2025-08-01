@@ -20,6 +20,11 @@ The map was created using [MapLibre](https://maplibre.org/) and geojson download
 
 <img src="readme-images/map3.png">
 
+### Map labels
+The NYT Map isn't interactive, and the only countries labeled are the ones that start out labeled in the map I created. But, I wanted to be able to see what the other highlighted countries were, and for the labels to display when I hover over the map.
+
+By adding and manipulating map layers, I can have the additional labels appear only on hover. This allows for exploration but doesn't clutter the map with additional labels.
+
 ## The charts
 
 The charts were created using [Highcharts](https://www.highcharts.com/products/highcharts/). The charts were created because the original NYT piece doesn't give the values of the tariffs until you get to the table at the bottom. So when their map said "rates as high as 50 percent" it wasn't clear if it was only one country or several countries.
