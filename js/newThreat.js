@@ -243,6 +243,7 @@ d3.csv(
     newThreatChart.xAxis[0].setTitle({
       text: "Country (sorted by tariff rate)",
     });
+    newThreatChart.yAxis[0].setTitle({ text: "Tariff Rate (%)" });
 
     // Update active class
     tariffBtn.classList.add("active");
@@ -266,6 +267,7 @@ d3.csv(
     newThreatChart.xAxis[0].setTitle({
       text: "Country (sorted by import value)",
     });
+    newThreatChart.yAxis[0].setTitle({ text: "Tariff Rate (%)" });
 
     // Update active class
     importsBtn.classList.add("active");
